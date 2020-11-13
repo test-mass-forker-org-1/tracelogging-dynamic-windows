@@ -1,2 +1,1 @@
-# tracelogging-dynamic-windows
-Dynamic TraceLogging Provider API for C++
+TODO: Create a file called LICENSE (not LICENSE.TXT, LICENSE.md, etc.)…
